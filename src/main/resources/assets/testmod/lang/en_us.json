@@ -1,0 +1,12 @@
+{
+ "item.testmod.steel_ingot": "Steel",
+ "block.testmod.steel_block": "Steel block",
+ "item.testmod.nickel_ingot": "Nickel ingot",
+ "block.testmod.nickel_block": "Nickel block",
+ "block.testmod.ether_ore": "Эфирная руда",
+ "block.testmod.deepslate_ether_ore": "Глубинная эфирная руда",
+ "item.testmod.ether_shard": "Эфирный осколок",
+ "item.testmod.ether_ingot": "Эфирная сталь",
+ "block.testmod.ether_block": "Эфировый блок",
+ "creative_tab.testmod.tab": "Эфирная магия лол, неточное название"
+}

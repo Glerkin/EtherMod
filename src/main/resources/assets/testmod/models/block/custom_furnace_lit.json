@@ -1,0 +1,9 @@
+{
+  "parent": "minecraft:block/orientable",
+  "textures": {
+    "top": "testmod:block/machine",
+    "bottom": "testmod:block/machine",
+    "side": "testmod:block/machine",
+    "front": "testmod:block/custom_furnace_front_lit"
+  }
+}

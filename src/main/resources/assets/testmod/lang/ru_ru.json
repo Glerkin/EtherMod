@@ -1,0 +1,13 @@
+{
+  "item.testmod.steel_ingot": "Стальной слиток",
+  "block.testmod.steel_block": "Сталинский блок",
+  "item.testmod.nickel_ingot": "Никелевый слиток",
+  "block.testmod.nickel_block": "Никитовый блок",
+  "block.testmod.ether_ore": "Эфирная руда",
+  "block.testmod.deepslate_ether_ore": "Глубинная эфирная руда",
+  "item.testmod.ether_shard": "Эфирный осколок",
+  "item.testmod.ether_ingot": "Эфирная сталь",
+  "block.testmod.ether_block": "Эфировый блок",
+  "creative_tab.testmod.tab": "Эфирная магия лол, неточное название",
+  "block.testmod.custom_furnace": "Печка с интрфейсом"
+}
